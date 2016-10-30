@@ -13,7 +13,7 @@ public class HelloWorldController {
 		  
 		   model.addAttribute("name", name);
 	   //returns the view name
-	   return "helloworld";
+	   return "index";
 	 
 	 }
 	
